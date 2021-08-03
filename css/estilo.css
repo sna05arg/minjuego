@@ -1,0 +1,33 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	font-family: sans-serif;
+}
+
+.contenedor {
+	padding: 0px;
+	margin: auto;
+	width: 800px;
+	height: 500px;
+	background-color: #ffffcc;
+	border: 8px dashed #ffff66;
+}
+
+#player {
+	background-color: #900;
+	border: 4px dashed #b22;
+	width: 90px;
+	height: 90px;
+	position: absolute;
+	transition: all 0.3s
+}
+.pointer {
+	background-color: #444;
+	height: 90px;
+	margin-top: 30px;
+	border-bottom: 0px;
+	color: #fff;
+	font-size: 40px;
+	text-align: center;
+	padding: 10px 0px
+}
