@@ -3,6 +3,6 @@
 <html lang="es">
 <body>
    <ul>
-	<li><a href="https://www.youtube.com/watch?v=X1IGcO01-9c&ab_channel=CalamardoPostingSDLG" target="_blank">Jugar</a></li>
+	<li><a href="https://sna05arg.github.io/minjuego/" target="_blank">Jugar</a></li>
    </ul>
 </body>
